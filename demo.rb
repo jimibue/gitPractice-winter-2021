@@ -12,7 +12,13 @@ puts "Hello from vim"
 # add(stage) those changes git add .   or git add filename
 # commit those changes git commit -m'description of what you did'
 
-# when needed
+# push step: when needed
+# pull from github (if needed)
+# fix any conflicts if they exist
 # push up to github
 
-# pull from github
+# if working with a partner
+# one of you will create the repo, the other will clone done repo(once)
+
+# When a team member pushes to master, they should tell everyone to
+# pull from master (ie git pull origin master)
