@@ -100,3 +100,5 @@ let user6 = {
   friends: [],
   posts: [],
 };
+
+console.log("hello");
